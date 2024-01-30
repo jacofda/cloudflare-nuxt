@@ -1,3 +1,3 @@
-<template>HEllo</template>
+<template>yEllow</template>
 
 <script lang="ts" setup></script>
